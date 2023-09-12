@@ -1,0 +1,10 @@
+div {
+    width: 50vh;
+    height: 50vh;
+    background: linear-gradient(red, yellow, 
+    green, blue);
+    border-top: 10px solid rgba(255, 49, 49);
+    border-right: 10px solid rgba(0, 255, 255);
+    border-bottom: 10px solid rgba(57, 255, 20);
+    border-left: 10px solid rgba(255, 255, 113);
+}
